@@ -80,7 +80,7 @@ else:
 
 This project will help you as a starting point to building APIs using Django. Also helps you generate links for hotels in a particular area.
 
-# For help support
+# For help & support
 
 contact : <br><br>LinkedIn: [Fahad P N](https://www.linkedin.com/in/fahadpn)
 <br> mail: [fahadpuzhakkaraillath@gmail.com](mailto:fahadpuzhallaraillath@gmail.com)
