@@ -4,7 +4,8 @@ This project contains the API for generating links that redirect you to the sear
 
 # How to run
 ### Installing Packages
-First step is make sure you have proper version of python<br>check your python version:<br>
+1. First step is make sure you have proper version of python<br><br>check your python version:<br>
 ```sh
 python --version
 ```
+
