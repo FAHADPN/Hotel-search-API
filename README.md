@@ -47,7 +47,7 @@ data = {
 
 ```
 
-8. You can check if the API is properly working by using the following python code
+8. You can check if the API is properly working by using the following [python code](https://github.com/FAHADPN/Hotel-search-API/blob/main/api-test.py)
 
 ```sh
 import requests
@@ -75,3 +75,12 @@ else:
     print(f'Error: {response.status_code} - {response.text}')
 
 ```
+
+# Conclusion
+
+This project will help you as a starting point to building APIs using Django. Also helps you generate links for hotels in a particular area.
+
+# For help support
+
+contact : <br><br>LinkedIn: [Fahad P N](https://www.linkedin.com/in/fahadpn)
+<br> mail: [fahadpuzhakkaraillath@gmail.com](mailto:fahadpuzhallaraillath@gmail.com)
