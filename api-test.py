@@ -6,7 +6,7 @@ api_url = 'http://127.0.0.1:8000/api/hotel_url/'
 
 # Define the input data as a dictionary
 data = {
-    'destination': 'New York',           # Replace with your destination
+    'destination': 'Kochi',           # Replace with your destination
     'check_in_date': '2023-09-15',       # Replace with your check-in date
     'check_out_date': '2023-09-20',      # Replace with your check-out date
 }
